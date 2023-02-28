@@ -1,0 +1,13 @@
+### Modelling images ###
+
+dependencies.txt contains all used libraries
+
+# Arguments for PowerShell #
+1_Model_Making.py <first image number> <last image number> <seed (optional)>
+2_FWMod.py <first image number> <last image number>
+3a_JMI_target.py <first image number> <last image number>
+3b_JMI_Prefocusing.py <first image number> <last image number>
+
+
+# Spyder Only #
+4_Prepare....py

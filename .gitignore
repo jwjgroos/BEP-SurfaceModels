@@ -1,0 +1,7 @@
+__pycache__/
+2_FWMod.py
+3a_JMI_target.py
+3b_JMI_Prefocusing.py
+subroutines_jmi.py
+subroutines_jmi_prefocusing.py
+*.test

@@ -1,0 +1,8 @@
+----- Dependencies -----
+numpy
+matplotlib
+scipy
+math 
+
+time
+sys
